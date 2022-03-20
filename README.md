@@ -1,13 +1,14 @@
 # Roys profile page
 
-### Who knows is this guy?
+## Who knows is this guy?
 
 I'm a 15 y old Python dev how's learning too many things at once (How to program in: Java, C, C++, PHP, I don't even know...)  
 In web development since March 2020, I have a descreate knowledge of HTML , CSS and Saas. Now I'm trying to get good with Javascript and jQuery.  
 
 ## What am I currently working on
 
-At the moment I'm creating my own portfolio website with Django and Firebase.
+At the moment I'm creating my own portfolio website with Django and Firebase, or al least I was until I realised that I can't deploy unless I connect a credit card.
+Now I'm building it as a static website, but I will continue with Django
 When it will be released I will make avaible some of my past programs for the download.  
 [An example of my incredible CSS skills](https://shopdeepsound.web.app), I know the download doesn't work
 
@@ -18,8 +19,8 @@ table where you can see by yourself.
 
 Technology | Experience | What have I done with it
 ------------ | ------------ | ------------
-Python | 1 1/2 years | Many CLI based programs including my own terminal
-HTML, CSS, JS | 2 years | [The site mentioned above](https://shopdeepsound.web.app) and more web apps including my version of Twitter, a casino, a password generator, some templates for landing pages
+Python | 1 1/2 years | Many CLI based programs including my own command terminal
+HTML, CSS, JS | 2 years | [The site mentioned above](https://shopdeepsound.web.app) and more web apps including "my version of Twitter", a casino, a password generator, some templates for landing pages
 
 <!---
 R0ysM/R0ysM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
