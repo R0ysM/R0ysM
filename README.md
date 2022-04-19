@@ -19,7 +19,7 @@ table where you can see by yourself my coding skills.
 
 Technology | Experience | What have I done with it
 ------------ | ------------ | ------------
-Python | 1 1/2 years | Many CLI based programs including my own command terminal
+Python | 1 1/2 years | Many Command Line based programs including my own command terminal
 HTML, CSS, JS | 2 years | [The site mentioned above](https://shopdeepsound.web.app) and more web apps including "my version of Twitter", a roll machine game, a password generator, some templates for landing pages
 
 <!---
