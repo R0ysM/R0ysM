@@ -7,10 +7,8 @@ In web development since March 2020, I have a descreate knowledge of HTML , CSS 
 
 ## What am I currently working on
 
-At the moment I'm creating my own portfolio website with Django and Firebase, or al least I was until I realised that I can't deploy unless I connect a credit card.
-Now I'm building it as a static website, but I will continue with Django even if I don't thin
-When it will be released I will make avaible some of my past programs for the download.  
-[An example of my incredible CSS skills](https://shopdeepsound.web.app), I know the download doesn't work
+At the moment I'm working as a freelancer by making websites with pure HTML and CSS, 
+[An example of my incredible CSS skills](https://roysmanfohub.web.app), I know the download sometimes doesn't work.
 
 ## Can we trust this guy? He probably doesn't know anything
 
@@ -19,8 +17,8 @@ table where you can see by yourself my coding skills.
 
 Technology | Experience | What have I done with it
 ------------ | ------------ | ------------
-Python | 1 1/2 years | Many Command Line based programs including my own command terminal
-HTML, CSS, JS | 2 years | [The site mentioned above](https://shopdeepsound.web.app) and more web apps including "my version of Twitter", a roll machine game, a password generator, some templates for landing pages
+Python | 1 1/2 years | Many Command Line based programs including my own command terminal and a criptogrphy program
+HTML, CSS, JS | 2 years | [The site mentioned above](https://roysmanfohub.web.app) and more web apps including "my version of Twitter", a roll machine game, a password generator and some templates for landing pages
 
 <!---
 R0ysM/R0ysM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
