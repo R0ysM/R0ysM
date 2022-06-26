@@ -19,7 +19,7 @@ Technology | Experience | What have I done with it
 ------------ | ------------ | ------------
 Python | 2 years | Many Command Line based programs including my own command terminal and a criptogrphy program
 HTML, CSS, JS | 2,5 years | [The site mentioned above](https://roysmanfohub.web.app) and more web apps including "my version of Twitter", a roll machine game, a password generator and some templates for landing pages
-
+C++ | 1 year | I created a simulation of a virtual world where people fight, make children and die (naturaly or becouse of a desease)
 <!---
 R0ysM/R0ysM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
