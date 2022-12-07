@@ -3,7 +3,7 @@
 ## Who knows is this guy?
 
 I'm a 15 y old Python dev who's learning too many things at once (Java, C, C++, PHP, Machine Learning, many web frameworks + I don't even know...)  
-In web development since March 2020, I have a descreate knowledge of HTML , CSS and Saas. Now I'm trying to get good with Javascript and jQuery.  
+In web development since March 2020, I have a descreate knowledge of HTML , CSS and Scss. Now I'm trying to get good with Javascript and jQuery.  
 
 ## What am I currently working on
 
