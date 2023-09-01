@@ -7,8 +7,8 @@ In web development since March 2020, I have a descreate knowledge of HTML , CSS 
 
 ## What am I currently working on
 
-At the moment I'm working as a freelancer by making websites with pure HTML and CSS, 
-[An example of my incredible CSS skills](https://roysmanfohub.web.app), I know the download sometimes doesn't work.
+At the moment I'm working as a freelancer by making websites using React.
+I am even rebuilding [my website](https://github.com/RoysManfo/RMHub) using React, Typescript and SASS for frontend, firebase for hosting and supabase for the backend.
 
 ## Can we trust this guy? He probably doesn't know anything
 
